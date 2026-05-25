@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: b0b0b0b0b0b0b0b0b0b0b0b0b0b0b0b0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 10
+  fontSize: 16
+  forceTextureCase: 0
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Roboto
+  fallbackFontReferences: []
+  customParameters: []
+  renderMode: 0
+  ascentCalculationMode: 1
+  forceBoldAndItalic: 0
+  UserData: 
+  assetBundleName: 
+  assetBundleVariant: 
