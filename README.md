@@ -75,3 +75,11 @@
 - **Neon Booster:** Tăng tốc độ chạy và tạo hiệu ứng bóng mờ (Ghost effect).
 - **Time Slower:** Làm chậm mọi thứ xung quanh ngoại trừ người chơi.
 - **Shield:** Tạo một lớp màng bảo vệ giúp đỡ một lần va chạm.
+
+---
+
+## 📝 Nhật ký thay đổi (Changelog)
+- **V1.0.0:** Khởi tạo dự án, thiết lập logic cơ bản.
+- **V1.1.0:** Thay đổi nhận diện thương hiệu thành **Neon Clash**.
+- **V1.2.0:** Tối ưu hóa UI và hoàn thiện hệ thống hiệu ứng Neon.
+- **V1.3.0:** Cập nhật thông tin nhà phát triển và hoàn thiện tài liệu hướng dẫn.
