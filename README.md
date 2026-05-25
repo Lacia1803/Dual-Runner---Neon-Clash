@@ -55,3 +55,9 @@
 - **Điều khiển:** Sử dụng các phím mũi tên hoặc WASD để di chuyển, nhảy và trượt.
 - **Mục tiêu:** Chạy xa nhất có thể, thu thập Power-ups và tránh né các cạm bẫy xuất hiện ngẫu nhiên.
 - **Thử thách:** Tốc độ game sẽ tăng dần theo thời gian, đòi hỏi sự tập trung cao độ.
+
+---
+
+## 🎬 Hoạt ảnh (Animation)
+- Nhân vật được trang bị bộ Sprite Sheet chất lượng cao với các trạng thái: Idle, Run, Jump, Fall, và Crouch.
+- Hiệu ứng chuyển động mượt mà giúp người chơi cảm nhận được trọng lượng và tốc độ của nhân vật.
