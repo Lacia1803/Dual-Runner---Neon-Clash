@@ -36,60 +36,15 @@
 ---
 
 ## 📂 Cấu trúc thư mục
-- Assets/Scenes: Nơi chứa các màn chơi (Level 1, Level 2) và các Menu (Main Menu, Loading, Credits).
-- Assets/Scripts: Chứa toàn bộ logic điều khiển, va chạm, và quản lý game.
-- Assets/Prefabs: Các đối tượng lặp lại như cạm bẫy, vật phẩm, và thành phần UI.
-- Assets/Animation: Hệ thống Animator và các clip hoạt hình cho nhân vật (P1, P2).
+- **Assets/Scenes**: Nơi chứa các màn chơi (Level 1, Level 2) và các Menu (Main Menu, Loading, Credits).
+- **Assets/Scripts**: Chứa toàn bộ logic điều khiển, va chạm, và quản lý game.
+- **Assets/Prefabs**: Các đối tượng lặp lại như cạm bẫy, vật phẩm, và thành phần UI.
+- **Assets/Animation**: Hệ thống Animator và các clip hoạt hình cho nhân vật (P1, P2).
 
 ---
 
 ## 🚀 Hướng dẫn cài đặt
 1. **Yêu cầu:** Cài đặt **Unity Hub** và phiên bản **Unity 6**.
-2. **Mở dự án:** Sử dụng Unity Hub chọn folder Agate-Game-Project-master.
+2. **Mở dự án:** Sử dụng Unity Hub chọn folder `Agate-Game-Project-master`.
 3. **Resolve Packages:** Chờ Unity tự động tải các package từ Package Manager (UI, Cinemachine).
-4. **Chạy game:** Mở scene Assets/Scenes/MainMenu.unity và nhấn nút **Play**.
-
----
-
-## 📝 Nhật ký thay đổi (Changelog)
-- **Redesign:** Thay thế toàn bộ logo cũ bằng văn bản Rich Text hiện đại.
-- **Branding:** Cập nhật ProductName và thiết kế lại bộ nhận diện thương hiệu.
-- **Credits:** Tối ưu hóa trang thông tin nhà phát triển, tập trung vào tên duy nhất của **Lacia**.
-- **Fixes:** Sửa lỗi hỏng YAML do sai định dạng xuống dòng và khôi phục các thư viện UI bị thiếu.
-
----
-
-## ⚖️ Bản quyền
-Dự án này được thực hiện cho mục đích học tập và xây dựng Portfolio.
-
-
-<!-- Commit 2: Them ghi chu v? Gameplay -->
-## ?? L?i ch?i
-Ng??i ch?i ?i?u khi?n nhan v?t ch?y qua cac khu v?c thanh ph? t??ng lai, s? d?ng cac phim ?i?u h??ng ?? tranh ne c?m b?y.
-
-
-<!-- Commit 3: Thong tin v? Animation -->
-## ?? Animation
-Nhan v?t co cac b? ho?t ?nh rieng bi?t cho ch?y, nh?y va tr??t, giup tr?i nghi?m game sinh ??ng h?n.
-
-
-<!-- Commit 4: Thong tin v? Traps -->
-## ?? C?m b?y
-C?n th?n v?i cac ch??ng ng?i v?t tren ???ng ?i, chung co th? lam b?n m?t mau ho?c k?t thuc tro ch?i ngay l?p t?c.
-
-
-<!-- Commit 5: Thong tin v? PowerUps -->
-## ? PowerUp
-Thu th?p cac v?t ph?m h? tr? ?? t?ng t?c ??, b?o v? b?n than ho?c t?ng ?i?m s? c?a b?n.
-
-
-<!-- Commit 6: H??ng d?n cai ??t -->
-## ?? H??ng d?n cai ??t
-1. T?i b?n build m?i nh?t.
-2. Gi?i nen va ch?y file .exe.
-3. Th??ng th?c game!
-
-
-<!-- Commit 7: Thong tin ?ong gop -->
-## ?? ?ong gop
-M?i ?ong gop xin vui long g?i Pull Request ho?c t?o Issue tren GitHub c?a d? an.
+4. **Chạy game:** Mở scene `Assets/Scenes/MainMenu.unity` và nhấn nút **Play**.
