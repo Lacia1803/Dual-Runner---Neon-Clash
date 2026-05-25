@@ -48,3 +48,10 @@
 2. **Mở dự án:** Sử dụng Unity Hub chọn folder `Agate-Game-Project-master`.
 3. **Resolve Packages:** Chờ Unity tự động tải các package từ Package Manager (UI, Cinemachine).
 4. **Chạy game:** Mở scene `Assets/Scenes/MainMenu.unity` và nhấn nút **Play**.
+
+---
+
+## 🕹 Lối chơi
+- **Điều khiển:** Sử dụng các phím mũi tên hoặc WASD để di chuyển, nhảy và trượt.
+- **Mục tiêu:** Chạy xa nhất có thể, thu thập Power-ups và tránh né các cạm bẫy xuất hiện ngẫu nhiên.
+- **Thử thách:** Tốc độ game sẽ tăng dần theo thời gian, đòi hỏi sự tập trung cao độ.
