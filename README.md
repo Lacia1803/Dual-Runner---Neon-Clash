@@ -61,3 +61,8 @@
 
 ## ⚖️ Bản quyền
 Dự án này được thực hiện cho mục đích học tập và xây dựng Portfolio.
+
+
+<!-- Commit 2: Them ghi chu v? Gameplay -->
+## ?? L?i ch?i
+Ng??i ch?i ?i?u khi?n nhan v?t ch?y qua cac khu v?c thanh ph? t??ng lai, s? d?ng cac phim ?i?u h??ng ?? tranh ne c?m b?y.
