@@ -61,3 +61,10 @@
 ## 🎬 Hoạt ảnh (Animation)
 - Nhân vật được trang bị bộ Sprite Sheet chất lượng cao với các trạng thái: Idle, Run, Jump, Fall, và Crouch.
 - Hiệu ứng chuyển động mượt mà giúp người chơi cảm nhận được trọng lượng và tốc độ của nhân vật.
+
+---
+
+## ⚠️ Hệ thống Cạm bẫy
+- **Saw:** Lưỡi cưa xoay tròn nguy hiểm.
+- **Spikes:** Gai nhọn đặt dưới đất hoặc trên trần.
+- **Static Obstacles:** Các thùng gỗ hoặc chướng ngại vật cố định trên đường chạy.
