@@ -83,3 +83,10 @@
 - **V1.1.0:** Thay đổi nhận diện thương hiệu thành **Neon Clash**.
 - **V1.2.0:** Tối ưu hóa UI và hoàn thiện hệ thống hiệu ứng Neon.
 - **V1.3.0:** Cập nhật thông tin nhà phát triển và hoàn thiện tài liệu hướng dẫn.
+
+---
+
+## 🤝 Đóng góp & Bản quyền
+- Mọi đóng góp xin vui lòng gửi Pull Request hoặc tạo Issue trên GitHub của dự án.
+- Dự án này được thực hiện bởi **Lacia (Phùng Võ Quốc Hiển)** cho mục đích xây dựng Portfolio cá nhân.
+- Xin cảm ơn cộng đồng Unity đã cung cấp các tài nguyên mẫu để phát triển dự án này.
