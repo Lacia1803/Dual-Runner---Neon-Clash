@@ -68,3 +68,10 @@
 - **Saw:** Lưỡi cưa xoay tròn nguy hiểm.
 - **Spikes:** Gai nhọn đặt dưới đất hoặc trên trần.
 - **Static Obstacles:** Các thùng gỗ hoặc chướng ngại vật cố định trên đường chạy.
+
+---
+
+## ⚡ Hệ thống Vật phẩm
+- **Neon Booster:** Tăng tốc độ chạy và tạo hiệu ứng bóng mờ (Ghost effect).
+- **Time Slower:** Làm chậm mọi thứ xung quanh ngoại trừ người chơi.
+- **Shield:** Tạo một lớp màng bảo vệ giúp đỡ một lần va chạm.
